@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sorteio</string>
+    <string name="roll">Roll</string>
+    <string name="main_hint">Digite um item</string>
+    <string name="main_insert">Inserir</string>
+    <string name="main_sort">Sortear</string>
+</resources>
