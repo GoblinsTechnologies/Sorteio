@@ -39,7 +39,7 @@ class MainActivity : AppCompatActivity() {
         val randomValue = Random.nextInt(0, size)
         val sorted = listItems.get(randomValue)
 
-        textView.append("Deck sorteado $sorted")
+        textView.append("Item sorteado $sorted")
     }
 
     private fun addItem() {
